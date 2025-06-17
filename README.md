@@ -11,7 +11,7 @@
 ### 🚀 Featured Projects
 | Project | Stack | One-liner impact |
 | :-- | :-- | :-- |
-| **CareerConnect** | Python · FastAPI · PyTorch | AI résumé analysis, job matching & interview prep for seekers (+ optional HR portal) |
+| **CareerConnect** | Python · FastAPI · PyTorch | AI résumé analysis, job matching & interview prep for seekers +  HR portal |
 | **Face Recognition** | OpenCV · FaceNet · Flask | Real-time face identification from uploaded images |
 | **El Hadj** | React · Node.js · MongoDB · Map APIs | Guides pilgrims from registration to hotel & flight booking |
 | **Monet Style Transfer** | TensorFlow · CNNs | Transforms nature photos into Monet-style artwork |
