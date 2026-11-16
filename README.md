@@ -4,8 +4,8 @@
 </picture>
 
 <p align="center">
-  <a href="https://tayeb-kahia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://tayeb-kahia.vercel.app/tayeb_kahia_cv.pdf"><img src="https://img.shields.io/badge/CV%20(PDF)-0f766e?style=for-the-badge" alt="CV (PDF)"></a>
+  <a href="https://tayeb-kahia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-c2410c?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://tayeb-kahia.vercel.app/tayeb_kahia_cv.pdf"><img src="https://img.shields.io/badge/CV%20(PDF)-c2410c?style=for-the-badge" alt="CV (PDF)"></a>
   <a href="mailto:tayeb.kahia.ai@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge" alt="Email"></a>
 </p>
 
