@@ -1,125 +1,29 @@
-<h1 align="center">Hi 👋, I'm Kahia Tayeb</h1>
-<h3 align="center">AI & Data Science • ML | DL | NLP • Backend & Automation Developer</h3>
+# Tayeb Kahia
 
-| 🔭 **Focus** | End-to-end data & AI pipelines · LLM prompt engineering · AI-powered automations |
-| :-- | :-- |
-| 🎓 **Studying** | 5ᵗʰ-year CS (Machine Learning, Deep Learning, NLP) @ ESI-SBA |
-| 💡 **Love** | Turning data into products—robust back-ends, vibe-coding front-ends, fast APIs |
+**AI Engineer · LLMs, RAG and AI Agents · ML · Edge AI**
 
----
+[Portfolio](https://tayeb-kahia.vercel.app/) · [Email](mailto:tayeb.kahia.ai@gmail.com) · [CV (PDF)](https://tayeb-kahia.vercel.app/tayeb_kahia_cv.pdf)
 
-### 🚀 Featured Projects
-| Project | Stack | One-liner impact |
-| :-- | :-- | :-- |
-| **CareerConnect** | Python · FastAPI · PyTorch | AI résumé analysis, job matching & interview prep for seekers +  HR portal |
-| **Face Recognition** | OpenCV · FaceNet · Flask | Real-time face identification from uploaded images |
-| **El Hadj** | React · Node.js · MongoDB · Map APIs | Guides pilgrims from registration to hotel & flight booking |
-| **Monet Style Transfer** | TensorFlow · CNNs | Transforms nature photos into Monet-style artwork |
-| **AI Chatbots / RAG** | LangChain · Vector DB · Telegram Bots | Custom assistants & workflows (sub-50 ms replies) |
+I build AI systems and measure them, from fine-tuning and evaluating models to shipping them as tested, containerized services. I hold a State Engineer and Master's degree in AI and Data Science from ESI-SBA. I publish the results that missed their target next to the ones that hit it.
 
----
+## Projects
 
-### 📜 Certificates
-Coursera Machine Learning Specialization · Leap year Learning.AI & GPT4AR Prompt Engineering · Udemy Node.js, Express, MongoDB & More: The Complete Bootcamp
-Udemy - 100 Days of Code The Complete Python Pro Bootcamp 2024-8
+| Project | What it is | Measured | Stack |
+| :-- | :-- | :-- | :-- |
+| [**Voice-Swarm-Edge**](https://github.com/TayebKahia/voice-swarm-edge) | On-device voice control for a drone swarm, with a fine-tuned small language model on a Raspberry Pi 5 | 27.9 tokens/s on three CPU cores · 0.935 exact match on 200 recorded commands · every output schema-valid | PyTorch, PEFT, llama.cpp, whisper.cpp, ONNX Runtime |
+| [**Grounded Docs**](https://github.com/TayebKahia/grounded-docs) | RAG assistant (web and Slack) that answers only from a team's own documents and checks every quote in code | 0 hallucinated answers in 42 not-found trials · 94.0% outcome accuracy · p95 latency 5.77 s | FastAPI, OpenAI API, PostgreSQL, pgvector, Docker |
+| [**Mailroom**](https://github.com/TayebKahia/mailroom-showcase) | Email agent for a shared inbox that drafts replies and waits for human approval; the model has no write tools | 0 of 30 prompt-injection attacks succeeded · 0 unapproved writes · 96.0% category accuracy | FastAPI, OpenAI function calling, PostgreSQL, MCP |
 
+<sub>Conditions: the drones are simulated and the commands come from one speaker; Grounded Docs and Mailroom were evaluated on synthetic data, Mailroom on a pre-release build against fake services. Each repository has the full method and the misses.</sub>
 
-### ⚙️ Languages & Tools  
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+## Also
 
-### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tayebkahia&show_icons=true&hide=issues&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayebkahia&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayebkahia&layout=compact&hide_title=true&theme=default" height="150"/>
-</p>
+- [**mailroom-mcp**](https://github.com/TayebKahia/mailroom-mcp): an MCP server for Mailroom, [published on PyPI](https://pypi.org/project/mailroom-mcp/). Seven read and redraft tools; none can approve or send.
+- [**WhatsApp Support Gateway**](https://github.com/TayebKahia/whatsapp-support-gateway): a FastAPI webhook gateway for order tracking and returns, with signature verification, duplicate-message protection and handover to a human agent.
+- [**CareerConnect**](https://github.com/TayebKahia/CareerConnect): a career recommendation engine built with graph neural networks and Sentence Transformers, as lead of a team of five.
+## Skills
 
-### 🤝 Connect
-[![Email](https://img.shields.io/badge/Email-t.kahia@outlook.com-darkgreen?logo=gmail&logoColor=white)](mailto:t.kahia@outlook.com)
-
----
-
-_Always excited to collaborate on AI, data-driven products, and clever automations.  
-Got a challenging idea? Let’s team up and build something impactful!_
+- **LLM engineering:** RAG (hybrid search, pgvector, reciprocal rank fusion), tool calling, structured outputs, MCP servers, guardrails, prompt-injection defenses, human-in-the-loop approval, evaluation
+- **ML and edge AI:** PyTorch, Hugging Face Transformers, LoRA fine-tuning, quantization (GGUF, llama.cpp), grammar-constrained decoding, speech recognition
+- **Backend and data:** Python, SQL, FastAPI, Pydantic, PostgreSQL, REST, OAuth 2.0, WebSockets
+- **Operations and quality:** Docker, GitHub Actions, Grafana and SLOs, k6 load testing, pytest, mypy, Ruff
