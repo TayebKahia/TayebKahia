@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 160" width="860" height="160" role="img" aria-label="Mailroom" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="859" height="159" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="0.5" y="24" width="4" height="112" rx="2" fill="#0f766e"/>
+<text x="28" y="48" font-size="23" font-weight="700" fill="#1f2328">Mailroom</text>
+<rect x="28" y="60" width="126" height="20" rx="10" fill="#d7efe9"/>
+<text x="91" y="74" text-anchor="middle" font-size="11.5" font-weight="600" fill="#0f766e">AI agent · v1.0.0</text>
+<text x="28" y="102" font-size="13" fill="#1f2328">Email agent for a shared inbox that drafts replies and</text>
+<text x="28" y="120" font-size="13" fill="#1f2328">waits for human approval. The model has no write tools.</text>
+<text x="28" y="143" font-size="11" fill="#59636e" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace">FastAPI · OpenAI function calling · PostgreSQL · MCP</text>
+<rect x="436" y="24" width="132" height="112" rx="10" fill="#ffffff" stroke="#d0d7de"/><text x="502" y="72" text-anchor="middle" font-size="30" font-weight="700" fill="#0f766e">0 / 30</text><text x="502" y="98" text-anchor="middle" font-size="11" fill="#59636e">prompt-injection</text><text x="502" y="113" text-anchor="middle" font-size="11" fill="#59636e">attacks succeeded</text><rect x="574" y="24" width="132" height="112" rx="10" fill="#ffffff" stroke="#d0d7de"/><text x="640" y="72" text-anchor="middle" font-size="30" font-weight="700" fill="#0f766e">0</text><text x="640" y="98" text-anchor="middle" font-size="11" fill="#59636e">unapproved writes</text><text x="640" y="113" text-anchor="middle" font-size="11" fill="#59636e">(fake services)</text><rect x="712" y="24" width="132" height="112" rx="10" fill="#ffffff" stroke="#d0d7de"/><text x="778" y="72" text-anchor="middle" font-size="30" font-weight="700" fill="#0f766e">96.0%</text><text x="778" y="98" text-anchor="middle" font-size="11" fill="#59636e">category accuracy on</text><text x="778" y="113" text-anchor="middle" font-size="11" fill="#59636e">50 held-out threads</text>
+</svg>
