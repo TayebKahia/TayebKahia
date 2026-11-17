@@ -16,14 +16,14 @@ I build AI systems and measure them, from fine-tuning and evaluating models to s
 <a href="https://github.com/TayebKahia/voice-swarm-edge">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/voice-swarm-edge-dark.svg">
-    <img src="assets/voice-swarm-edge-light.svg" width="100%" alt="Voice-Swarm-Edge: on-device voice control for a simulated drone swarm with a fine-tuned small language model. 27.9 tokens/s on a Raspberry Pi 5, 0.935 exact match on 200 commands, 100% schema-valid outputs.">
+    <img src="assets/voice-swarm-edge-light.svg" width="100%" alt="Voice-Swarm-Edge: on-device voice control for a simulated drone swarm with a fine-tuned small language model. 27.9 tokens/s on a Raspberry Pi 5, 0.935 exact match on 200 commands scored on reference transcripts, 100% schema-valid in 3,540 decodes.">
   </picture>
 </a>
 
 <a href="https://github.com/TayebKahia/grounded-docs">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/grounded-docs-dark.svg">
-    <img src="assets/grounded-docs-light.svg" width="100%" alt="Grounded Docs: RAG assistant for web and Slack that answers only from a team's documents. 0 hallucinated answers in 42 not-found trials, 94.0% outcome accuracy, p95 latency 5.77 s.">
+    <img src="assets/grounded-docs-light.svg" width="100%" alt="Grounded Docs: RAG assistant for web and Slack that answers only from a team's documents. 0 invented answers in 42 not-found trials, 94.0% outcome accuracy, p95 latency 5.77 s.">
   </picture>
 </a>
 
@@ -34,7 +34,7 @@ I build AI systems and measure them, from fine-tuning and evaluating models to s
   </picture>
 </a>
 
-<sub>Each card links to its repository. Conditions: the drones are simulated and the commands come from one speaker; Grounded Docs and Mailroom were evaluated on synthetic data with `gpt-6-luna`, Mailroom on a pre-release build against fake services. None of these systems has real users or a hosted deployment. Each repository has the full method and the misses.</sub>
+<sub>Each card links to its repository. Conditions: the drones are simulated and the commands come from one speaker; Grounded Docs and Mailroom were evaluated on synthetic data with `gpt-6-luna`, Mailroom on a frozen pre-release commit against fake services. None of these systems has real users or a hosted deployment. Each repository has the full method and the misses.</sub>
 
 ## Also
 
